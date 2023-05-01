@@ -1,0 +1,353 @@
+[
+    {
+        "id": "chf1",
+        "imageUrl": "https://i.ibb.co/r3ddBDn/chef1.webp",
+        "name": "Jorge Martinez",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 32,
+        "likes": 178,
+        "bio": "Chef Jorge Martinez is a classically trained chef who specializes in traditional Mexican cuisine. With a focus on using fresh, locally-sourced ingredients and time-honored techniques, Chef Martinez's dishes are both authentic and delicious.",
+        "recipes": [
+            {
+                "id": "chf1-rcp1",
+                "recipeName": "Enchiladas Verdes",
+                "ingredients": [
+                    "corn tortillas",
+                    "chicken",
+                    "tomatillos",
+                    "onion",
+                    "garlic",
+                    "jalapeño",
+                    "cilantro"
+                ],
+                "cookingMethod": "1. Boil tomatillos, onion, garlic, and jalapeño until soft. 2. Blend with cilantro. 3. Cook shredded chicken. 4. Dip tortillas in sauce, fill with chicken, and roll up. 5. Place in a baking dish, top with remaining sauce and cheese. 6. Bake until cheese is melted and bubbly.",
+                "rating": 4.5
+            },
+            {
+                "id": "chf1-rcp2",
+                "recipeName": "Chiles Rellenos",
+                "ingredients": [
+                    "poblano peppers",
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "raisins",
+                    "almonds",
+                    "tomatoes"
+                ],
+                "cookingMethod": "1. Roast and peel poblano peppers. 2. Cook ground beef, onion, and garlic. 3. Add raisins, almonds, and tomatoes. 4. Stuff peppers with filling. 5. Dip in egg batter and fry until golden brown. 6. Serve with tomato sauce.",
+                "rating": 4.3
+            },
+            {
+                "id": "chf1-rcp3",
+                "recipeName": "Tamales",
+                "ingredients": [
+                    "corn husks",
+                    "masa harina",
+                    "pork",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "chili powder"
+                ],
+                "cookingMethod": "1. Soak corn husks in water. 2. Cook pork, tomatoes, onion, garlic, and chili powder. 3. Mix masa harina with broth. 4. Spread masa on husks, add meat filling, and fold. 5. Steam for about an hour. 6. Serve with salsa.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": "chf2",
+        "imageUrl": "https://i.ibb.co/2PMg9rt/chef2.jpg",
+        "name": "Alejandro Torres",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 27,
+        "likes": 204,
+        "bio": "Chef Alejandro Torres is a talented chef who blends traditional Mexican flavors with modern culinary techniques to create dishes that are both familiar and unique. With a focus on using fresh, seasonal ingredients, Chef Torres's cuisine is both flavorful and sustainable.",
+        "recipes": [
+            {
+                "id": "chf2-rcp1",
+                "recipeName": "Mole Poblano",
+                "ingredients": [
+                    "chicken",
+                    "dried chili peppers",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "cinnamon",
+                    "almonds",
+                    "raisins",
+                    "tortillas"
+                ],
+                "cookingMethod": "1. Toast and soak chili peppers. 2. Cook chicken. 3. Blend chili peppers, tomatoes, onion, garlic, cinnamon, almonds, and raisins. 4. Fry tortillas. 5. Dip tortillas and chicken in sauce, and serve together.",
+                "rating": 4.7
+            },
+            {
+                "id": "chf2-rcp2",
+                "recipeName": "Chiles en Nogada",
+                "ingredients": [
+                    "poblano peppers",
+                    "ground pork",
+                    "onion",
+                    "garlic",
+                    "cinnamon",
+                    "apples",
+                    "pears",
+                    "peach",
+                    "walnuts",
+                    "almonds",
+                    "raisins",
+                    "pomegranate seeds"
+                ],
+                "cookingMethod": "1. Roast and peel poblano peppers. 2. Cook ground pork, onion, garlic, and cinnamon. 3. Add chopped apples, pears, and peach, as well as walnuts, almonds, and raisins. 4. Stuff peppers with filling. 5. Top with a walnut cream sauce and pomegranate seeds.",
+                "rating": 4.6
+            },
+            {
+                "id": "chf2-rcp3",
+                "recipeName": "Tacos al Pastor",
+                "ingredients": [
+                    "pork shoulder",
+                    "pineapple",
+                    "onion",
+                    "garlic",
+                    "achiote paste",
+                    "cumin",
+                    "oregano",
+                    "tortillas"
+                ],
+                "cookingMethod": "1. Marinate pork shoulder in achiote paste, pineapple, onion, garlic, cumin, and oregano. 2. Grill or roast until cooked through. 3. Serve on tortillas with chopped onion, cilantro, and pineapple.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": "chf3",
+        "imageUrl": "https://i.ibb.co/YWkvhnV/chef3.webp",
+        "name": "Carlos Martinez",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 22,
+        "likes": 152,
+        "bio": "Chef Carlos Martinez is a master of Mexican street food, with a particular focus on tacos. His signature dishes are simple yet delicious, made with fresh ingredients and bold flavors that capture the essence of Mexican cuisine.",
+        "recipes": [
+            {
+                "id": "chf3-rcp1",
+                "recipeName": "Tacos de Carne Asada",
+                "ingredients": [
+                    "skirt steak",
+                    "lime juice",
+                    "orange juice",
+                    "garlic",
+                    "cumin",
+                    "coriander",
+                    "chili powder",
+                    "tortillas"
+                ],
+                "cookingMethod": "1. Marinate skirt steak in lime juice, orange juice, garlic, cumin, coriander, and chili powder. 2. Grill or pan-fry until cooked to desired doneness. 3. Slice and serve on tortillas with your favorite toppings.",
+                "rating": 4.4
+            },
+            {
+                "id": "chf3-rcp2",
+                "recipeName": "Sopa de Tortilla",
+                "ingredients": [
+                    "chicken broth",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "jalapeño",
+                    "tortillas",
+                    "avocado",
+                    "cheese",
+                    "cilantro"
+                ],
+                "cookingMethod": "1. Fry tortilla strips until crispy. 2. Cook tomatoes, onion, garlic, and jalapeño in chicken broth. 3. Blend until smooth. 4. Add tortilla strips and cook until soft. 5. Serve with chopped avocado, cheese, and cilantro.",
+                "rating": 4.2
+            },
+            {
+                "id": "chf3-rcp3",
+                "recipeName": "Chiles Rellenos de Queso",
+                "ingredients": [
+                    "poblano peppers",
+                    "queso fresco",
+                    "flour",
+                    "eggs",
+                    "oil"
+                ],
+                "cookingMethod": "1. Roast and peel poblano peppers. 2. Stuff with queso fresco. 3. Dredge in flour and coat in beaten eggs. 4. Fry in oil until golden brown. 5. Serve with your favorite salsa.",
+                "rating": 4.1
+            }
+        ]
+    },
+    {
+        "id": "chf4",
+        "imageUrl": "https://i.ibb.co/MgzSQVp/chef4.webp",
+        "name": "Carlos Ramirez",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 19,
+        "likes": 210,
+        "bio": "Carlos Ramirez is originally from Puebla, Mexico and learned to cook from his mother. He honed his skills working in restaurants throughout Mexico and the United States. His specialty is creating new dishes that blend traditional Mexican ingredients with international flavors.",
+        "recipes": [
+            {
+                "id": "chf4-rcp1",
+                "recipeName": "Pozole Rojo",
+                "ingredients": [
+                    "pork shoulder",
+                    "hominy",
+                    "dried chilies",
+                    "onion",
+                    "garlic",
+                    "oregano",
+                    "cumin",
+                    "radish",
+                    "lime",
+                    "tostadas"
+                ],
+                "cookingMethod": "1. Cook pork shoulder until tender. 2. Soak and blend dried chilies with onion, garlic, oregano, and cumin. 3. Add blended mixture to pork and hominy. 4. Serve with sliced radish, lime, and tostadas.",
+                "rating": 4.5
+            },
+            {
+                "id": "chf4-rcp2",
+                "recipeName": "Enchiladas Suizas",
+                "ingredients": [
+                    "chicken",
+                    "tortillas",
+                    "tomatillos",
+                    "onion",
+                    "garlic",
+                    "sour cream",
+                    "cheese",
+                    "cilantro"
+                ],
+                "cookingMethod": "1. Cook chicken and shred. 2. Cook tomatillos, onion, and garlic until soft. 3. Blend until smooth. 4. Mix in sour cream. 5. Dip tortillas in sauce and fill with chicken. 6. Top with cheese and bake until melted. 7. Serve with chopped cilantro.",
+                "rating": 4.3
+            },
+            {
+                "id": "chf4-rcp3",
+                "recipeName": "Tamales de Pollo",
+                "ingredients": [
+                    "masa",
+                    "chicken",
+                    "tomatillo salsa",
+                    "corn husks"
+                ],
+                "cookingMethod": "1. Soak corn husks in water. 2. Mix masa with chicken broth. 3. Spread masa onto corn husks. 4. Add chicken and tomatillo salsa. 5. Wrap and steam for 1 hour. 6. Serve with your favorite toppings.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": "chf5",
+        "imageUrl": "https://i.ibb.co/3S3CTDh/chef5.jpg",
+        "name": "Antonio Gonzalez",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 31,
+        "likes": 287,
+        "bio": "Chef Antonio Gonzalez is a master of Mexican street food, with a particular focus on tacos. His signature dishes are simple yet delicious, made with fresh ingredients and bold flavors that capture the essence of Mexican cuisine.",
+        "recipes": [
+            {
+                "id": "chf5-rcp1",
+                "recipeName": "Chile Colorado",
+                "ingredients": [
+                    "beef chuck",
+                    "dried chilies",
+                    "onion",
+                    "garlic",
+                    "cumin",
+                    "oregano",
+                    "bay leaves"
+                ],
+                "cookingMethod": "1. Toast and soak dried chilies. 2. Blend chilies with onion,garlic, cumin, and oregano. 3. Brown beef chuck in a pot. 4. Add blended mixture, bay leaves, and water. 5. Simmer until beef is tender. 6. Serve with rice and beans.",
+                "rating": 4.6
+            },
+            {
+                "id": "chf5-rcp2",
+                "recipeName": "Tacos al Pastor",
+                "ingredients": [
+                    "pork shoulder",
+                    "pineapple",
+                    "achiote paste",
+                    "onion",
+                    "garlic",
+                    "guajillo chilies",
+                    "corn tortillas",
+                    "cilantro",
+                    "lime"
+                ],
+                "cookingMethod": "1. Marinate pork shoulder with achiote paste, pineapple, onion, garlic, and guajillo chilies. 2. Roast in the oven until tender. 3. Serve on corn tortillas with diced pineapple, chopped cilantro, and lime wedges.",
+                "rating": 4.4
+            },
+            {
+                "id": "chf5-rcp3",
+                "recipeName": "Sopa de Fideos",
+                "ingredients": [
+                    "vermicelli",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "chicken broth",
+                    "avocado",
+                    "cilantro",
+                    "lime"
+                ],
+                "cookingMethod": "1. Toast vermicelli until golden brown. 2. Blend tomatoes, onion, and garlic. 3. Cook blended mixture in a pot. 4. Add chicken broth and vermicelli. 5. Simmer until vermicelli is tender. 6. Serve with diced avocado, chopped cilantro, and lime wedges.",
+                "rating": 4.1
+            }
+        ]
+    },
+    {
+        "id": "chf6",
+        "imageUrl": "https://i.ibb.co/TrBP847/chef6.webp",
+        "name": "Juan Hernandez",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 25,
+        "likes": 158,
+        "bio": "Juan Hernandez grew up in Mexico City and learned to cook from his grandmother. He went on to study at the Culinary Institute of Mexico and has since worked in top restaurants in Mexico and the United States. His specialty is traditional Mexican cuisine with a modern twist.",
+        "recipes": [
+            {
+                "id": "chf6-rcp1",
+                "recipeName": "Chiles Rellenos de Camarones",
+                "ingredients": [
+                    "poblano peppers",
+                    "shrimp",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "queso fresco",
+                    "cornstarch",
+                    "eggs",
+                    "oil"
+                ],
+                "cookingMethod": "1. Roast and peel poblano peppers. 2. Sauté shrimp, tomatoes, onion, and garlic. 3. Stuff mixture into peppers with queso fresco. 4. Dredge in cornstarch and coat in beaten eggs. 5. Fry in oil until golden brown. 6. Serve with rice and beans.",
+                "rating": 4.3
+            },
+            {
+                "id": "chf6-rcp2",
+                "recipeName": "Tostadas de Tinga",
+                "ingredients": [
+                    "chicken thighs",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "chipotle chilies",
+                    "avocado",
+                    "lettuce",
+                    "queso fresco"
+                ],
+                "cookingMethod": "1. Cook chicken thighs and shred. 2. Blend tomatoes, onion, garlic, and chipotle chilies. 3. Cook blended mixture with shredded chicken. 4. Serve on tostadas with sliced avocado, shredded lettuce, and crumbled queso fresco.",
+                "rating": 4.2
+            },
+            {
+                "id": "chf6-rcp3",
+                "recipeName": "Arroz con Leche",
+                "ingredients": [
+                    "rice",
+                    "milk",
+                    "sugar",
+                    "cinnamon",
+                    "raisins",
+                    "vanilla extract"
+                ],
+                "cookingMethod": "1. Cook rice in milk. 2. Add sugar, cinnamon, raisins, and vanilla extract. 3. Simmer until thick and creamy. 4. Serve warm or chilled.",
+                "rating": 4.5
+            }
+        ]
+    }
+]
