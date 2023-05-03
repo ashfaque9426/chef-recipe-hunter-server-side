@@ -14,6 +14,12 @@ app.get('/chefData', (req, res) => {
     res.send(data);
 });
 
+app.get('/recipes/:id', (req, res) => {
+    const id = req.params.id;
+    const recepes = data.find(chefData => chefData.id === id);
+    res.send(recepes);
+})
+
 app.listen(port, () => {
     console.log(`The Food Artisan server is runnig on port: ${port}`)
 });
